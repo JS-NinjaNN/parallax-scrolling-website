@@ -1,5 +1,3 @@
 # parallax-scrolling-website
 
-Need to change link
-
-[GitHub Pages](https://toxicnn.github.io/parallax-scrolling-website/)
+[GitHub Pages](https://js-ninjann.github.io/parallax-scrolling-website/)
